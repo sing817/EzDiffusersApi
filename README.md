@@ -4,7 +4,10 @@
 歡迎使用 MDAI設計師 API！此 API 可以讓您根據自訂的文字生成高品質的圖片或圖片風格變換。
 
 Welcome to the MDAI Graphic Designer API! This API allows you to generate high-quality images with customized text prompts or image style change.
-
+***
+<h2>API URL</h2>
+`http://2dgpn.ai.marveldigital.com`
+***
 <h2>Getting Started說明<h2>
 <h3>Endpoints功能簡介<h3>
 <b>如非特別註明,以下功能有幾點需注意:</b><p>
