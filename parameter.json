@@ -1,0 +1,10 @@
+{
+    "img2img": {
+        "strength": 0.4,
+        "steps": 120
+    },
+    "text2img": {
+        "strength": 0.7,
+        "steps": 200
+    }
+}
