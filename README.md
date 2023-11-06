@@ -6,7 +6,7 @@
 Welcome to the MDAI Graphic Designer API! This API allows you to generate high-quality images with customized text prompts or image style change.
 ***
 <h2>API URL</h2>
-`http://2dgpn.ai.marveldigital.com`
+server not running now
 ***
 <h2>Getting Started說明<h2>
 <h3>Endpoints功能簡介<h3>
